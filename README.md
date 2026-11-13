@@ -43,6 +43,7 @@ This tool is part of a growing atlas of tools built the same way:
 - [Pharmacological pain management in elderly patients](https://github.com/satbuhan/geriatric-pain-protocol) ([live site](https://satbuhan.github.io/geriatric-pain-protocol/))
 - [Needle Aspiration versus Tube Thoracostomy — Symptom-Led Management of Spontaneous Pneumothorax](https://github.com/satbuhan/spontaneous-pneumothorax-protocol) ([live site](https://satbuhan.github.io/spontaneous-pneumothorax-protocol/))
 - [Suspected or Witnessed Button Battery Exposure in a Child](https://github.com/satbuhan/button-battery-protocol) ([live site](https://satbuhan.github.io/button-battery-protocol/))
+- [Beta-Lactam Infusion Strategy in Sepsis and Septic Shock](https://github.com/satbuhan/beta-lactam-infusion-protocol) ([live site](https://satbuhan.github.io/beta-lactam-infusion-protocol/))
 
 ## Why this exists
 
